@@ -1,0 +1,19 @@
+div.pagination {font-family:Verdana,Tahoma,Arial,Helvetica,Sans-Serif;  font-size: 13px; text-align:center;  padding:0px 6px 4px 0px;  color:#313031; }
+div.pagination a {-moz-border-radius-bottomleft:5px;  -moz-border-radius-bottomright:5px; -moz-border-radius-topleft:5px; -moz-border-radius-topright:5px; color:#444444; text-decoration:none; padding:5px 6px 4px 5px; margin:0 3px 0 3px; border:1px solid gray;}
+div.pagination a:hover, div.pagination a:active {-moz-border-radius-bottomleft:5px; -moz-border-radius-bottomright:5px; -moz-border-radius-topleft:5px; -moz-border-radius-topright:5px; color:#444444; border:1px solid gray; background-color:#dfdfdf;}
+div.pagination span.current {-moz-border-radius-bottomleft:5px; -moz-border-radius-bottomright:5px; -moz-border-radius-topleft:5px; -moz-border-radius-topright:5px; padding:5px 6px 4px 5px; margin:0 3px 0 3px; border:1px solid gray; font-weight:bold; color:#444444; background-color:#dfdfdf;}
+div.pagination span.disabled {display:none;}
+
+
+.input_area {background-color:#FFFFFF;  border-color:#DFDFDF; font-size:1.7em; }
+#m1 {color:green; }
+.middle_div {text-align:center; font-size:20px; font-weight:bold; margin:61px 168px}
+.middle_msg {padding:10px}
+.a_msg {text-decoration:none; }
+
+.error {margin:5px 5px 15px !important;  background-color:#FFFFFF;  border-color:#CC0000 !important;  float:left; }
+
+.back {text-align:center}
+
+ul.remote_site_list {list-style:none; overflow:hidden}
+ul.remote_site_list li {float:left; width:20%; padding:5px;}
